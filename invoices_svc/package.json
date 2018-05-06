@@ -1,0 +1,23 @@
+{
+  "name": "invoices_svc",
+  "version": "1.0.0",
+  "description": "invoices_svc microservice responsible for individual invoices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-sleuth/total-invoice-management.git"
+  },
+  "author": "Ibrahim Mbaziira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-sleuth/total-invoice-management/issues"
+  },
+  "homepage": "https://github.com/code-sleuth/total-invoice-management#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
